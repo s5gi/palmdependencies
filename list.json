@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "gorillatag": {
+    "title": "Gorilla Tag",
+    "mods": {
+      "0": {
+        "name": "Safe Mod by 5gi",
+        "version": "1.0.0",
+        "source": "https://discord.gg/Fg2zAHDG98"
+      }
+    }
+  }
+}
